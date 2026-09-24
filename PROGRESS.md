@@ -1,99 +1,63 @@
 # Progress Belajar
 
-Dokumen ini digunakan untuk mencatat perkembangan belajar Data Analyst selama 52 minggu.
+Tracker ini mengikuti hasil belajar yang tercatat di Notion Learning Tracker.
 
-## Status
+## Week 01 — Foundation
 
-Gunakan status berikut:
+**Status: 🟢 Completed — LULUS**  
+**Final Score: 93/100**  
+**Study Time: 14 jam**
 
-- `Not Started` — belum dimulai
-- `In Progress` — sedang dipelajari
-- `Review` — materi selesai, perlu penguatan
-- `Completed` — memenuhi indikator kelulusan
+| Day | Materi | Score | Status |
+|---:|---|---:|---|
+| 01 | Mengenal Data Analyst | 8,6/10 | ✅ Completed |
+| 02 | Dataset: Rows, Columns & Variables | 9/10 | ✅ Completed |
+| 03 | Data Types | 10/10 | ✅ Completed |
+| 04 | Data Quality & Missing Values | 9,5/10 | ✅ Completed |
+| 05 | Business Questions | 9,2/10 | ✅ Completed |
+| 06 | Mini Data Analysis | 9,5/10 | ✅ Completed |
+| 07 | Week 1 Assessment | 93/100 | 🏆 LULUS |
 
-## Progress Mingguan
+### Week 01 Assessment Breakdown
 
-| Minggu | Fokus | Status | Bukti / Link |
-|---:|---|---|---|
-| 01 | Data Analyst Fundamentals | In Progress | [Week 01](./week-01/README.md) |
-| 02 | Excel Intermediate | Not Started | - |
-| 03 | Data Cleaning Spreadsheet | Not Started | - |
-| 04 | Pivot Table & Dashboard | Not Started | - |
-| 05 | SQL Fundamentals | Not Started | - |
-| 06 | SQL Filtering & CASE | Not Started | - |
-| 07 | SQL Aggregation | Not Started | - |
-| 08 | SQL Joins | Not Started | - |
-| 09 | Subquery & CTE | Not Started | - |
-| 10 | Window Functions | Not Started | - |
-| 11 | Date & Text Functions | Not Started | - |
-| 12 | SQL Case Study | Not Started | - |
-| 13 | Python Fundamentals | Not Started | - |
-| 14 | Control Flow & Functions | Not Started | - |
-| 15 | Python Data Structures | Not Started | - |
-| 16 | File Handling | Not Started | - |
-| 17 | NumPy | Not Started | - |
-| 18 | Pandas Fundamentals | Not Started | - |
-| 19 | Pandas Cleaning | Not Started | - |
-| 20 | Pandas Transformation | Not Started | - |
-| 21 | Descriptive Statistics | Not Started | - |
-| 22 | Distribution & Outliers | Not Started | - |
-| 23 | Probability & Sampling | Not Started | - |
-| 24 | Correlation & Regression | Not Started | - |
-| 25 | Exploratory Data Analysis | Not Started | - |
-| 26 | Data Visualization Tools | Not Started | - |
-| 27 | Data Storytelling | Not Started | - |
-| 28 | EDA Case Study | Not Started | - |
-| 29 | Power BI Fundamentals | Not Started | - |
-| 30 | Power Query | Not Started | - |
-| 31 | Data Modeling | Not Started | - |
-| 32 | DAX Fundamentals | Not Started | - |
-| 33 | DAX & Time Intelligence | Not Started | - |
-| 34 | Dashboard Design | Not Started | - |
-| 35 | Publishing & Refresh | Not Started | - |
-| 36 | Power BI Case Study | Not Started | - |
-| 37 | Sales Analytics Project | Not Started | - |
-| 38 | E-commerce Analytics Project | Not Started | - |
-| 39 | Marketing Analytics Project | Not Started | - |
-| 40 | Customer Analytics Project | Not Started | - |
-| 41 | Project Refinement | Not Started | - |
-| 42 | Portfolio Documentation | Not Started | - |
-| 43 | Insight Presentation | Not Started | - |
-| 44 | Portfolio Publication | Not Started | - |
-| 45 | CV Data Analyst | Not Started | - |
-| 46 | LinkedIn & Personal Branding | Not Started | - |
-| 47 | SQL Interview Preparation | Not Started | - |
-| 48 | Case Study Interview | Not Started | - |
-| 49 | Capstone Definition | Not Started | - |
-| 50 | Capstone Analysis | Not Started | - |
-| 51 | Capstone Presentation | Not Started | - |
-| 52 | Final Evaluation & Applications | Not Started | - |
+| Bagian | Score |
+|---|---:|
+| A — Fundamental | 9,0/10 |
+| B — Dataset & Data Types | 9,0/10 |
+| C — Data Quality | 9,5/10 |
+| D — Business Question | 9,2/10 |
+| E — Mini Data Analysis | 9,8/10 |
+| **Final** | **93/100** |
 
-## Template Evaluasi Mingguan
+## Key Learning Evidence
 
-```text
-Minggu:
-Periode:
-Status:
+- Mampu menjelaskan workflow **Business Problem → Business Question → Data → Analysis → Information → Insight → Recommendation**.
+- Mampu memilih kolom berdasarkan Business Question.
+- Memahami bahwa ID tidak selalu dibutuhkan untuk analisis.
+- Memahami bahwa duplicate perlu diverifikasi sebelum dihapus.
+- Mampu membedakan Information dan Insight.
+- Memahami bahwa pola/hubungan tidak otomatis membuktikan sebab-akibat.
+- Mampu menghitung percentage change dan conversion rate.
 
-Konsep yang dikuasai:
-- 
+### Case Evidence
 
-Latihan yang selesai:
-- 
+Pada mini analysis Januari–April:
+- Pengunjung tetap **10.000/bulan**.
+- Transaksi turun dari **1.000 → 600 (-40%)**.
+- Revenue turun dari **Rp100 juta → Rp65 juta (-35%)**.
+- Conversion rate turun dari **10% → 6%**.
+- Penurunan conversion rate = **4 percentage points** atau **40% secara relatif**.
+- Penyebab pasti belum dapat ditentukan tanpa data tambahan.
 
-Project / output:
-- 
+## 52-Week Status
 
-Kesulitan utama:
-- 
+| Week | Status |
+|---:|---|
+| 01 | 🟢 Completed |
+| 02–52 | ⚪ Not Started |
 
-Rencana perbaikan:
-- 
+## Next Step
 
-Nilai evaluasi: /100
-Indikator lulus: Ya / Tidak
-```
+**Week 02 — Tools & Working Environment**
 
-## Aturan Update
-
-Perbarui dokumen ini setiap akhir minggu. Sertakan link menuju notebook, spreadsheet, query SQL, dashboard, atau laporan yang menjadi bukti pembelajaran.
+Fokus berikutnya adalah mulai bekerja dengan tools analitik secara terstruktur dan menghubungkan workflow foundation dengan praktik kerja Data Analyst.
