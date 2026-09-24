@@ -1,37 +1,84 @@
-# Day 05 — Statistik Deskriptif Dasar
+# Day 05 — Business Questions
 
-## Tujuan
+> **Dokumentasi Perjalanan — Foundation**  
+> Status: ✅ Completed — Lulus  
+> Score: **9,2/10**  
+> Study Time: **2 jam**
 
-Menggunakan statistik deskriptif untuk merangkum data dan menjelaskan kondisi dataset.
+## Portfolio Summary
 
-## Materi
+Analisis data yang baik tidak dimulai dari membuat chart, tetapi dari **memahami masalah bisnis dan merumuskan pertanyaan yang tepat**.
 
-- **Mean:** nilai rata-rata.
-- **Median:** nilai tengah setelah data diurutkan.
-- **Mode:** nilai yang paling sering muncul.
-- **Minimum dan maximum:** batas terendah dan tertinggi.
-- **Range:** selisih maximum dan minimum.
-- **Count:** jumlah observasi.
-- **Percentage:** proporsi suatu kategori terhadap total.
+## Business Problem → Business Question
 
-Formula penting:
+**Business Problem:** penjualan toko turun dalam 3 bulan terakhir.
 
-```text
-Mean = total seluruh nilai / jumlah observasi
-Range = nilai maksimum - nilai minimum
-Persentase = jumlah kategori / total jumlah × 100%
-```
+Diubah menjadi:
 
-## Latihan
+> **Produk apa yang mengalami penurunan jumlah terjual terbesar dalam 3 bulan terakhir?**
 
-Gunakan kolom nilai transaksi dari dataset Day 02. Hitung mean, median, minimum, maximum, range, dan persentase transaksi berdasarkan customer type.
+Pertanyaan tersebut lebih mudah diterjemahkan menjadi kebutuhan data dan metode analisis.
 
-Bandingkan mean dan median. Jelaskan apa yang mungkin menyebabkan keduanya berbeda.
+## Ciri Business Question yang Baik
 
-## Output
+- **Clear** — fokus.
+- **Measurable** — dapat dijawab dengan data.
+- **Relevant** — terkait masalah bisnis.
+- **Specific** — scope jelas.
+- **Actionable** — membantu menentukan langkah berikutnya.
 
-Buat tabel ringkasan statistik dan tulis interpretasi singkat untuk setiap metrik.
+## Jenis Business Question
 
-## Indikator Selesai
+1. **Descriptive** — Apa yang terjadi?
+2. **Diagnostic** — Apa yang berkaitan dengan perubahan?
+3. **Comparative** — Apa perbedaannya?
+4. **Trend** — Bagaimana perubahan dari waktu ke waktu?
 
-Mampu menjelaskan kapan mean dapat terpengaruh outlier dan mengapa median bisa lebih representatif.
+> Hubungan antar-variabel tidak otomatis membuktikan hubungan sebab-akibat.
+
+## Data Requirement Example
+
+Untuk pertanyaan “Produk mana yang mengalami penurunan penjualan terbesar dari Januari sampai April?”:
+
+| Data | Fungsi |
+|---|---|
+| Tanggal | Menentukan periode |
+| Produk | Membandingkan produk |
+| Jumlah Terjual | Mengukur volume |
+| Revenue/Harga | Menganalisis nilai penjualan |
+
+ID transaksi tidak otomatis diperlukan.
+
+## Mini Challenge
+
+Dataset Januari–April:
+- Pengunjung: **10.000 setiap bulan**
+- Transaksi: **1.000 → 900 → 750 → 600**
+- Revenue: **Rp100 jt → Rp92 jt → Rp78 jt → Rp65 jt**
+
+Pertanyaan yang relevan:
+- Seberapa besar penurunan transaksi?
+- Seberapa besar penurunan revenue?
+- Apakah jumlah pengunjung berubah?
+- Kapan penurunan terbesar terjadi?
+- Faktor apa yang perlu dianalisis lebih lanjut?
+
+Dari data ini kita dapat melihat **apa yang terjadi**, tetapi belum cukup bukti untuk menentukan **penyebab pasti**.
+
+## Skills Demonstrated
+
+- Business Problem Framing
+- Data Requirement Thinking
+- Business Question Formulation
+- Analytical Discipline
+
+## Assessment
+
+- Level 1: **8,5/10**
+- Level 2: **9,7/10**
+- Mini Challenge: **9,2/10**
+- Final: **9,2/10**
+
+### Learning Checkpoint
+
+> Pertanyaan analisis menentukan data yang digunakan — bukan sebaliknya.
