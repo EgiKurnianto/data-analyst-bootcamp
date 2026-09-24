@@ -1,32 +1,68 @@
-# Day 02 — Spreadsheet Fundamentals
+# Day 02 — Dataset: Rows, Columns & Variables
 
-## Tujuan
+> **Learning Portfolio — Foundation**  
+> Status: ✅ Completed — Lulus  
+> Score: **9/10**  
+> Study Time: **2 jam**
 
-Menggunakan spreadsheet untuk memasukkan, membaca, mengurutkan, menyaring, dan menghitung data sederhana.
+## Portfolio Summary
 
-## Materi
+Fokus hari ini adalah memahami “anatomi” dataset dan memilih data berdasarkan **pertanyaan analisis**, bukan berdasarkan banyaknya kolom.
 
-- Workbook, worksheet, row, column, cell, range.
-- Data type: text, number, date, boolean.
-- Formula dasar: `SUM`, `AVERAGE`, `MIN`, `MAX`, `COUNT`, `COUNTA`.
-- Sorting dan filtering.
-- Relative reference dan absolute reference.
-- Format angka, tanggal, mata uang, dan persentase.
+## Dataset Anatomy
 
-## Latihan
+| Elemen | Makna | Peran |
+|---|---|---|
+| Dataset | Kumpulan data | Sumber analisis |
+| Row / Record | Satu observasi | Unit yang dicatat |
+| Column / Variable | Atribut | Informasi untuk dibandingkan/dikelompokkan |
+| ID | Identifier unik | Identifikasi/relasi |
 
-Buat tabel transaksi dengan minimal 15 baris. Hitung total quantity, total revenue, rata-rata harga, transaksi terbesar, dan jumlah transaksi.
+## Analytical Decision Framework
 
-Gunakan formula revenue:
+Sebelum menggunakan sebuah kolom:
 
-```excel
-=Quantity*Unit_Price
-```
+1. Apa pertanyaan yang ingin dijawab?
+2. Metrik apa yang diperlukan?
+3. Dimensi apa yang digunakan untuk membandingkan?
+4. Apakah periode, lokasi, atau segmen diperlukan?
+5. Apakah ID benar-benar dibutuhkan?
 
-## Output
+### Example
 
-Simpan file sebagai `week-01-spreadsheet-fundamentals.xlsx`.
+**Business Question:** “Produk apa yang paling banyak terjual?”
 
-## Indikator Selesai
+Data relevan:
+- Produk
+- Jumlah terjual
 
-Mampu membuat tabel transaksi dan menghitung metrik dasar tanpa kalkulator manual.
+ID record belum tentu diperlukan.
+
+## Practical Exercise
+
+Latihan mencakup:
+- Membedakan row dan column.
+- Menjelaskan record dan variable.
+- Menjelaskan fungsi ID.
+- Memilih kolom berdasarkan Business Question.
+
+## Key Insight
+
+> **Pertanyaan analisis menentukan kolom yang digunakan — bukan sebaliknya.**
+
+Dataset besar tidak otomatis menghasilkan analisis yang lebih baik.
+
+## Skills Demonstrated
+
+- Dataset Structure Analysis
+- Variable Identification
+- Data Requirement Thinking
+- Analytical Question Mapping
+
+## Reflection
+
+Perlu penguatan pada penentuan **unit observasi** dan pemilahan kolom utama, pendukung, serta tidak relevan pada dataset kompleks.
+
+## Assessment
+
+**9/10 — Completed / Lulus**
