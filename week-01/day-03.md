@@ -1,34 +1,64 @@
-# Day 03 — Problem Framing dan Data Workflow
+# Day 03 — Data Types
 
-## Tujuan
+> **Learning Portfolio — Foundation**  
+> Status: ✅ Completed — Lulus  
+> Score: **10/10**  
+> Study Time: **2 jam**
 
-Mengubah kebutuhan bisnis yang masih umum menjadi pertanyaan analisis yang jelas dan terukur.
+## Portfolio Summary
 
-## Materi
+Tipe data bukan hanya tentang bagaimana nilai disimpan, tetapi juga tentang **bagaimana nilai dapat digunakan dalam analisis**.
 
-Problem framing mencakup:
+## Data Type Framework
 
-- Business objective: tujuan organisasi.
-- Stakeholder: pihak yang menggunakan hasil analisis.
-- Key question: pertanyaan yang perlu dijawab.
-- Metric/KPI: ukuran keberhasilan.
-- Scope: batas waktu, populasi, dan data.
-- Assumption: asumsi yang digunakan.
+| Tipe | Contoh | Kegunaan |
+|---|---|---|
+| Text | Nama, Produk | Label/deskripsi |
+| Number | 25, 300000 | Nilai numerik |
+| Date | 2026-09-08 | Trend, periode, durasi |
+| Categorical | Member, Non-Member | Segmentasi/perbandingan |
+| Numerical | Revenue, Quantity | Perhitungan/agregasi |
 
-Contoh:
+### Catatan Penting
 
-> Masalah: penjualan menurun.
->
-> Pertanyaan analisis: pada bulan apa penurunan terjadi, kategori mana yang paling terdampak, dan apakah penurunan disebabkan volume transaksi atau nilai transaksi?
+Satu kolom dapat berupa **Number** sekaligus **Numerical**. Status seperti Member/Non-Member lebih tepat dipandang sebagai **Categorical** dalam konteks analisis.
 
-## Latihan
+## Analytical Checks
 
-Buat problem brief untuk bisnis toko online. Tentukan stakeholder, tujuan, tiga pertanyaan analisis, KPI, periode analisis, dan asumsi.
+**Question:** “Bagaimana rata-rata revenue per bulan?”
 
-## Output
+Data:
+- Date
+- Revenue
 
-File `problem-brief.md` berisi satu business case yang terstruktur.
+**Question:** “Bagaimana performa berdasarkan status customer?”
 
-## Indikator Selesai
+Data:
+- Status
+- Metrik performa
 
-Kamu mampu membedakan business objective, analytical question, dan metric.
+## Why It Matters
+
+Tipe data memengaruhi cara kolom dapat:
+- dihitung;
+- dikelompokkan;
+- difilter;
+- dibandingkan;
+- divisualisasikan.
+
+Salah memahami tipe data dapat menghasilkan analisis yang salah meskipun rumusnya benar.
+
+## Skills Demonstrated
+
+- Data Type Classification
+- Contextual Data Interpretation
+- Column Selection
+- Analytical Reasoning
+
+## Reflection
+
+Perlu latihan lebih lanjut pada dataset dunia nyata, konversi tipe data di Excel/SQL/Python, dan dampaknya terhadap cleaning.
+
+## Assessment
+
+**10/10 — Completed / Lulus**
