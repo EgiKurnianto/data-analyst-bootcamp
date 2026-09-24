@@ -1,25 +1,38 @@
 # Data Analyst Bootcamp
 
-Program belajar mandiri selama **52 minggu** untuk membangun kompetensi dan portofolio sebagai Data Analyst dari nol hingga siap melamar pekerjaan junior.
+Program belajar mandiri 52 minggu untuk membangun kompetensi dan portofolio Data Analyst dari nol hingga job-ready.
 
-## Tujuan
+## Progress Saat Ini
 
-- Memahami proses kerja Data Analyst dari business question hingga insight.
-- Menguasai Excel/Google Sheets, SQL, statistik dasar, Python, dan Power BI.
-- Membangun kebiasaan analisis yang terstruktur, terdokumentasi, dan dapat direproduksi.
-- Menghasilkan portofolio proyek nyata yang dapat ditampilkan di GitHub dan LinkedIn.
+**Week 01 — Foundation: Completed / LULUS**  
+**Final Assessment: 93/100**  
+**Study time: 14 jam (2 jam/hari)**
+
+Week 01 membangun fondasi berpikir sebagai analyst: **Business Problem → Business Question → Data → Analysis → Information → Insight → Recommendation**.
+
+## Kompetensi yang Sudah Dibangun
+
+- Data Analyst role dan analytical workflow
+- Dataset literacy: row, column, record, variable, ID
+- Data types: Text, Number, Date, Categorical, Numerical
+- Data Quality: Missing, Duplicate, Invalid, Inconsistent
+- Business Question dan problem framing
+- Percentage change dan conversion rate
+- Information vs Insight
+- Analytical rigor dan batas causal claim
+- Mini Data Analysis end-to-end
 
 ## Kurikulum Utama
 
 | Fase | Fokus | Minggu |
 |---|---|---:|
-| 1 | Fundamental Data Analytics & Spreadsheet | 1–4 |
-| 2 | SQL untuk Analisis Data | 5–12 |
-| 3 | Python Programming & Data Analysis | 13–20 |
-| 4 | Statistik, EDA, dan Data Visualization | 21–28 |
-| 5 | Power BI, Dashboard, dan Data Storytelling | 29–36 |
-| 6 | Portfolio Project dan Business Case | 37–44 |
-| 7 | Career Preparation, Capstone, dan Job Readiness | 45–52 |
+| 1 | Foundation & Spreadsheet | 1–4 |
+| 2 | SQL | 5–12 |
+| 3 | Python & Data Analysis | 13–20 |
+| 4 | Statistics, EDA & Visualization | 21–28 |
+| 5 | Power BI & Business Intelligence | 29–36 |
+| 6 | Portfolio Projects | 37–44 |
+| 7 | Career Readiness & Capstone | 45–52 |
 
 ## Struktur Repository
 
@@ -39,37 +52,24 @@ data-analyst-bootcamp/
     └── day-07.md
 ```
 
-## Standar Belajar Mingguan
+## Prinsip Belajar
 
-Setiap minggu terdiri dari:
+1. Mulai dari **business problem**, bukan tools.
+2. Pilih data berdasarkan **business question**.
+3. Bedakan fakta, information, insight, hipotesis, dan causal claim.
+4. Jangan mengubah atau menghapus data tanpa validasi.
+5. Dokumentasikan reasoning, bukan hanya hasil akhir.
+6. Gunakan target minimal **80% mastery** sebagai gate sebelum lanjut.
 
-1. Materi inti
-2. Sumber belajar
-3. Latihan terarah
-4. Mini lab atau studi kasus
-5. Dokumentasi hasil belajar
-6. Mini project
-7. Ujian kecil dan indikator kelulusan
-
-Standar minimum kelulusan adalah **80% penguasaan**, dibuktikan melalui latihan, penjelasan dengan kata-kata sendiri, dan hasil project.
-
-## Progress
+## Dokumentasi
 
 - [Roadmap 52 Minggu](./ROADMAP.md)
 - [Progress Belajar](./PROGRESS.md)
-- [Week 01 — Data Analyst Fundamentals](./week-01/README.md)
+- [Week 01 — Foundation](./week-01/README.md)
 
-## Cara Menggunakan Repository
+## Catatan Privasi
 
-1. Baca roadmap untuk memahami urutan kompetensi.
-2. Pelajari materi sesuai hari yang sedang berjalan.
-3. Simpan catatan, query, workbook, notebook, dan insight di folder minggu terkait.
-4. Commit perubahan secara rutin dengan pesan commit yang jelas.
-5. Perbarui `PROGRESS.md` setelah menyelesaikan latihan atau evaluasi.
-
-## Catatan Privasi Data
-
-Gunakan dataset publik, data sintetis, atau data yang sudah dianonimkan. Jangan mengunggah data pelanggan, informasi pribadi, kredensial, atau data perusahaan yang bersifat rahasia.
+Gunakan dataset publik, sintetis, atau anonim. Jangan commit data pribadi, credentials, customer data, atau informasi perusahaan yang bersifat rahasia.
 
 ---
 
