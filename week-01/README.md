@@ -1,53 +1,75 @@
-# Week 01 — Data Analyst Fundamentals
+# Week 01 — Data Analyst Foundation
 
-## Tema
+## Status
 
-Memahami peran Data Analyst, alur kerja analisis data, dasar spreadsheet, statistik deskriptif, dan visualisasi data.
+🟢 **Completed — LULUS**  
+**Final Score: 93/100**  
+**Study Time: 14 jam**
 
-## Tujuan Mingguan
+Week 01 bukan sekadar pengenalan profesi. Fokus utamanya adalah membangun **cara berpikir analyst** sebelum masuk lebih jauh ke tools.
 
-Pada akhir minggu, kamu diharapkan mampu:
+## Core Workflow
 
-- Menjelaskan peran Data Analyst dan tahapan data analytics lifecycle.
-- Membedakan data terstruktur, semi-terstruktur, dan tidak terstruktur.
-- Menggunakan spreadsheet untuk operasi dasar, sorting, filtering, dan formula sederhana.
-- Menghitung metrik statistik deskriptif dasar.
-- Memilih visualisasi yang sesuai dengan jenis pertanyaan bisnis.
-- Menyusun insight sederhana berdasarkan dataset.
+```text
+Business Problem
+      ↓
+Business Question
+      ↓
+Data
+      ↓
+Analysis
+      ↓
+Information
+      ↓
+Insight
+      ↓
+Recommendation
+```
 
-## Jadwal Materi
+## Learning Objectives
 
-- [Day 01 — Mengenal Data Analyst dan Data Lifecycle](./day-01.md)
-- [Day 02 — Spreadsheet Fundamentals](./day-02.md)
-- [Day 03 — Problem Framing dan Data Workflow](./day-03.md)
-- [Day 04 — Data Cleaning dan Data Quality](./day-04.md)
-- [Day 05 — Statistik Deskriptif Dasar](./day-05.md)
-- [Day 06 — Visualisasi Data Dasar](./day-06.md)
-- [Day 07 — Mini Project dan Evaluasi Mingguan](./day-07.md)
+Pada akhir Week 01 saya harus mampu:
 
-## Mini Project Mingguan
+- Menjelaskan peran Data Analyst.
+- Memahami struktur dataset.
+- Mengklasifikasikan tipe data berdasarkan konteks.
+- Mengidentifikasi masalah Data Quality.
+- Mengubah Business Problem menjadi Business Question.
+- Menghitung perubahan dan conversion rate sederhana.
+- Membedakan Information, Insight, dan causal claim.
+- Menjelaskan batasan analisis berdasarkan evidence.
 
-Analisis dataset transaksi sederhana dengan minimal kolom:
+## Daily Learning Log
 
-- `order_id`
-- `order_date`
-- `product`
-- `category`
-- `quantity`
-- `unit_price`
-- `customer_type`
+| Day | Topik | Score | Status |
+|---:|---|---:|---|
+| 01 | Mengenal Data Analyst | 8,6/10 | ✅ |
+| 02 | Dataset: Rows, Columns & Variables | 9/10 | ✅ |
+| 03 | Data Types | 10/10 | ✅ |
+| 04 | Data Quality & Missing Values | 9,5/10 | ✅ |
+| 05 | Business Questions | 9,2/10 | ✅ |
+| 06 | Mini Data Analysis | 9,5/10 | ✅ |
+| 07 | Assessment Week 1 | 93/100 | 🏆 |
 
-### Pertanyaan Analisis
+## Key Competencies
 
-1. Berapa total transaksi dan total revenue?
-2. Produk atau kategori mana yang menghasilkan revenue terbesar?
-3. Berapa nilai rata-rata transaksi?
-4. Bagaimana distribusi transaksi berdasarkan tipe pelanggan?
-5. Insight apa yang dapat ditindaklanjuti?
+### 1. Dataset Literacy
+Memahami dataset, row, record, column, variable, dan ID.
 
-## Indikator Lulus
+### 2. Data Quality
+Memahami Missing, Duplicate, Invalid, dan Inconsistent Data serta pentingnya validasi sebelum melakukan perubahan.
 
-- Menyelesaikan minimal 80% latihan Day 01–07.
-- Mampu menjelaskan alur analisis dari pertanyaan hingga rekomendasi.
-- Menghasilkan satu spreadsheet atau laporan analisis.
-- Menuliskan minimal tiga insight dan dua keterbatasan data.
+### 3. Business Thinking
+Pertanyaan analisis menentukan data yang dibutuhkan.
+
+### 4. Quantitative Analysis
+Mampu menghitung percentage change dan conversion rate.
+
+### 5. Analytical Rigor
+Korelasi atau pola tidak otomatis membuktikan sebab-akibat.
+
+## Assessment Gate
+
+Week 01 dinyatakan lulus dengan **93/100**, di atas threshold 80%.
+
+**Next:** [Week 02](../ROADMAP.md)
