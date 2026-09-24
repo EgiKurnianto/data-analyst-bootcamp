@@ -1,62 +1,97 @@
-# Day 07 — Mini Project dan Evaluasi Mingguan
+# Day 07 — Week 1 Assessment
 
-## Tujuan
+> **Assessment Gate — Foundation**  
+> Status: 🟢 **Completed — LULUS**  
+> Study Time: **2 jam**  
+> Final Score: **93/100**
 
-Menggabungkan seluruh materi Week 01 menjadi analisis data sederhana dari awal sampai akhir.
+## Assessment Objective
 
-## Mini Project
+Week 1 menguji kemampuan untuk:
 
-Gunakan dataset transaksi sederhana atau dataset publik yang memiliki informasi transaksi.
+- memahami peran Data Analyst;
+- membaca struktur dataset;
+- mengklasifikasikan data;
+- mengidentifikasi Data Quality;
+- merumuskan Business Question;
+- melakukan percentage change dan conversion rate;
+- membedakan Information dan Insight;
+- menjaga batas antara insight dan causal claim.
 
-### Tahapan Pengerjaan
+## Competency Map
 
-1. Tulis business objective.
-2. Definisikan minimal tiga pertanyaan analisis.
-3. Periksa struktur dan kualitas data.
-4. Bersihkan data yang bermasalah.
-5. Hitung KPI utama: total order, total quantity, revenue, dan average order value.
-6. Buat minimal tiga visualisasi.
-7. Tulis minimal tiga insight.
-8. Berikan dua rekomendasi yang masuk akal.
-9. Dokumentasikan keterbatasan data.
+| Kompetensi | Evidence |
+|---|---|
+| Analyst Fundamentals | Workflow analisis |
+| Dataset Literacy | Row, Column, Variable, ID |
+| Data Types | Klasifikasi tipe data |
+| Data Quality | Missing, Invalid, Duplicate, Inconsistent |
+| Business Thinking | Business Question |
+| Quantitative Analysis | Percentage change & conversion rate |
+| Insight Generation | Information → Insight |
+| Analytical Rigor | Causal reasoning |
 
-## Struktur Laporan
+## Assessment Structure
+
+### Part A — Fundamental
+Memahami role, workflow, dan Data → Information → Insight → Recommendation.
+
+### Part B — Dataset & Data Types
+Row, column, variable, ID, tipe data, dan pemilihan kolom.
+
+### Part C — Data Quality
+Missing, invalid, inconsistent, dan duplicate.
+
+### Part D — Business Question
+Membuat pertanyaan yang clear, measurable, relevant, dan dapat dijawab data.
+
+### Part E — Mini Data Analysis
+Percentage change, conversion rate, Information, Insight, So What?, dan batasan kesimpulan.
+
+## Hasil
+
+| Bagian | Score |
+|---|---:|
+| A — Fundamental | 9,0/10 |
+| B — Dataset & Data Types | 9,0/10 |
+| C — Data Quality | 9,5/10 |
+| D — Business Question | 9,2/10 |
+| E — Mini Data Analysis | 9,8/10 |
+| **Final** | **93/100** |
+
+## Key Learning Evidence
+
+- Pilih kolom berdasarkan **Business Question**.
+- ID tidak selalu diperlukan.
+- Duplicate harus diverifikasi sebelum dihapus.
+- Jangan menebak nilai missing/invalid.
+- Hubungan atau pola tidak otomatis membuktikan penyebab.
+- Conversion rate Januari = **10%**, April = **6%**.
+- Transaksi turun **40%**, revenue turun **35%**, sementara pengunjung tetap 10.000/bulan.
+- Penyebab pasti belum dapat ditentukan dari dataset yang tersedia.
+
+## Passing Criteria
+
+Target kelulusan: **≥80/100**.
+
+Hasil **93/100** memenuhi competency gate Week 1.
+
+## Portfolio Perspective
+
+Week 1 membuktikan fondasi alur berpikir:
 
 ```text
-1. Business Context
-2. Objective
-3. Dataset Description
-4. Data Cleaning
-5. KPI Summary
-6. Visualizations
-7. Key Insights
-8. Recommendations
-9. Limitations
+Business Problem
+→ Business Question
+→ Data
+→ Analysis
+→ Information
+→ Insight
+→ Recommendation
 ```
 
-## Evaluasi Diri
+Assessment ini menjadi baseline untuk mengukur perkembangan pada minggu berikutnya.
 
-Jawab tanpa melihat materi:
+## Next Step
 
-1. Apa perbedaan business question dan analytical question?
-2. Mengapa data cleaning dilakukan sebelum analisis?
-3. Kapan median lebih tepat daripada mean?
-4. Kapan line chart digunakan?
-5. Apa perbedaan insight dan rekomendasi?
-
-## Indikator Lulus Week 01
-
-- Mini project selesai.
-- Minimal tiga insight didukung angka atau visualisasi.
-- Minimal dua rekomendasi terkait langsung dengan insight.
-- Dataset dan proses cleaning terdokumentasi.
-- Nilai evaluasi mandiri minimal 80/100.
-
-## Refleksi
-
-Tuliskan:
-
-- Konsep paling mudah dipahami.
-- Konsep yang masih membingungkan.
-- Kesalahan yang ditemukan selama analisis.
-- Hal yang akan diperbaiki pada Week 02.
+**Week 2 — Tools & Working Environment**
