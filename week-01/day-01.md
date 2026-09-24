@@ -1,38 +1,79 @@
-# Day 01 — Mengenal Data Analyst dan Data Lifecycle
+# Day 01 — Mengenal Data Analyst
 
-## Tujuan
+> **Learning Portfolio — Foundation**  
+> Status: ✅ Completed — Lulus  
+> Score: **8,6/10**  
+> Study Time: **2 jam**
 
-Memahami pekerjaan Data Analyst, jenis data, stakeholder, serta alur umum analisis data.
+## Portfolio Summary
 
-## Materi Inti
+Hari pertama difokuskan pada cara berpikir dari **business problem → data → insight → decision**, bukan sekadar mengenal profesi.
 
-Data Analyst membantu organisasi mengambil keputusan menggunakan data. Pekerjaan utamanya mencakup memahami masalah bisnis, mengambil data, membersihkan data, menganalisis, memvisualisasikan, dan menyampaikan rekomendasi.
+### Yang Dipelajari
 
-### Data Analytics Lifecycle
+- Peran Data Analyst dalam konteks bisnis.
+- Workflow analisis end-to-end.
+- Perbedaan Data, Information, Insight, dan Recommendation.
+- Pentingnya evidence sebelum membuat kesimpulan sebab-akibat.
 
-1. **Ask** — memahami masalah dan pertanyaan bisnis.
-2. **Prepare** — mengumpulkan serta menyiapkan data.
-3. **Process** — membersihkan dan memvalidasi data.
-4. **Analyze** — menemukan pola, tren, dan hubungan.
-5. **Share** — menyampaikan insight melalui laporan atau dashboard.
-6. **Act** — membantu stakeholder mengambil tindakan.
+## Analytical Framework
 
-### Jenis Data
+```text
+Business Problem
+→ Business Question
+→ Collect Data
+→ Clean Data
+→ Analyze
+→ Information
+→ Insight
+→ Recommendation
+```
 
-- **Structured:** tabel spreadsheet atau database.
-- **Semi-structured:** JSON, XML, log aplikasi.
-- **Unstructured:** teks bebas, gambar, audio, video.
+| Tahap | Pertanyaan |
+|---|---|
+| Business Problem | Masalah bisnis apa yang terjadi? |
+| Business Question | Apa yang perlu diketahui? |
+| Data | Data apa yang tersedia/dibutuhkan? |
+| Analysis | Apa yang berubah atau berbeda? |
+| Information | Apa yang benar-benar terjadi? |
+| Insight | Apa makna/pola pentingnya? |
+| Recommendation | Tindakan apa yang layak dipertimbangkan? |
 
-## Latihan
+## Business Case
 
-1. Jelaskan perbedaan Data Analyst, Data Scientist, dan Data Engineer.
-2. Ambil satu aktivitas bisnis sehari-hari dan tuliskan enam tahap data lifecycle-nya.
-3. Identifikasi lima contoh data structured dan lima contoh data unstructured.
+Case: terjadi penurunan transaksi pada toko/restoran.
 
-## Output
+Latihan:
+1. Mengidentifikasi tren penurunan.
+2. Menentukan Business Questions.
+3. Memisahkan fakta dari dugaan penyebab.
+4. Menentukan data tambahan yang masih dibutuhkan.
 
-Buat catatan satu halaman berjudul `data-analytics-lifecycle.md` atau diagram alur sederhana.
+### Evidence
 
-## Indikator Selesai
+- **Observation:** transaksi menunjukkan tren penurunan.
+- **Information:** performa transaksi berubah dari waktu ke waktu.
+- **Insight:** pola tersebut perlu diinvestigasi dengan variabel yang relevan.
+- **Causal claim:** belum dapat dibuat tanpa bukti tambahan.
 
-Kamu dapat menjelaskan proses analisis data dari pertanyaan bisnis sampai tindakan tanpa melihat catatan.
+## Skills Demonstrated
+
+- Business Problem Framing
+- Business Question Formulation
+- Analytical Thinking
+- Data vs Information vs Insight
+- Evidence-based Thinking
+
+## Reflection
+
+**Sudah dikuasai:** peran Data Analyst, workflow, pola sederhana, dan business questions.
+
+**Perlu diperkuat:** membedakan Information vs Insight dan menghindari asumsi sebab-akibat tanpa evidence.
+
+## Assessment
+
+**8,6/10 — Completed / Lulus**
+
+### Learning Checkpoint
+
+> Jangan langsung membuat chart atau menghitung angka sebelum memahami masalah bisnisnya.
