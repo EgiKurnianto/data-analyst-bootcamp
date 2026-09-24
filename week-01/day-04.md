@@ -1,40 +1,59 @@
-# Day 04 — Data Cleaning dan Data Quality
+# Day 04 — Data Quality & Missing Values
 
-## Tujuan
+> **Learning Portfolio — Foundation**  
+> Status: ✅ Completed — Lulus  
+> Score: **9,5/10**  
+> Study Time: **2 jam**
 
-Memahami mengapa data perlu dibersihkan dan mengenali masalah kualitas data yang umum.
+## Portfolio Summary
 
-## Materi
+Analisis yang baik membutuhkan data yang layak dipercaya. Hari ini fokus pada menemukan masalah kualitas data dan menentukan tindakan yang tepat tanpa cleaning secara sembarangan.
 
-Masalah data yang sering ditemukan:
+## Data Quality Framework
 
-- Missing values.
-- Duplikasi baris.
-- Format tanggal tidak konsisten.
-- Typo dan perbedaan penulisan kategori.
-- Angka tersimpan sebagai teks.
-- Nilai tidak masuk akal atau berada di luar rentang.
-- Kolom yang tidak memiliki definisi jelas.
+| Masalah | Contoh | Tindakan awal |
+|---|---|---|
+| Missing | Usia kosong | Cek sumber & konteks |
+| Duplicate | ID tercatat dua kali | Verifikasi sebelum menghapus |
+| Invalid | Usia = -5 | Validasi terhadap aturan/sumber |
+| Inconsistent | Jakarta / JAKARTA | Normalisasi jika maknanya sama |
 
-### Alur Cleaning
+## Business Case
 
-1. Buat salinan data asli.
-2. Periksa jumlah baris, kolom, dan tipe data.
-3. Identifikasi missing values dan duplikasi.
-4. Standarkan format tanggal, teks, dan angka.
-5. Validasi rentang serta aturan bisnis.
-6. Dokumentasikan perubahan.
+Temuan pada dataset transaksi:
+- **Missing:** Jumlah kosong.
+- **Invalid:** Jumlah = -2.
+- **Inconsistent:** JAKARTA vs Jakarta.
+- **Duplicate:** ID 004 muncul dua kali.
 
-## Latihan
+### Treatment Logic
 
-Buat dataset berisi minimal 20 baris dengan sengaja memasukkan beberapa nilai kosong, duplikasi, typo kategori, dan format tanggal berbeda. Bersihkan dataset tersebut menggunakan spreadsheet.
+- Missing → periksa sumber data dan tentukan metode penanganan.
+- Invalid → validasi nilai sebenarnya; jangan menebak.
+- Inconsistent → normalisasi jika konteks menunjukkan makna yang sama.
+- Duplicate → hapus hanya setelah dipastikan merupakan duplikasi.
 
-## Output
+> **Prinsip:** jangan menebak nilai missing/invalid dan jangan menghapus record sebelum alasan perubahan tervalidasi.
 
-- `raw_data.csv` atau spreadsheet data mentah.
-- `clean_data.csv` atau spreadsheet data bersih.
-- `cleaning-notes.md` yang menjelaskan perubahan.
+## Analytical Insight
 
-## Indikator Selesai
+Data cleaning bukan sekadar membuat tabel terlihat rapi. Tujuannya meningkatkan kelayakan data agar analisis berikutnya dapat dipercaya.
 
-Mampu menjelaskan perbedaan antara memperbaiki data dan mengubah data secara tidak sah.
+## Skills Demonstrated
+
+- Data Quality Assessment
+- Data Cleaning Logic
+- Validation Thinking
+- Anomaly Identification
+- Data Integrity Awareness
+
+## Assessment
+
+- Level 1: **8,5/10**
+- Level 2: **10/10**
+- Level 3: **10/10**
+- Final: **9,5/10**
+
+## Learning Checkpoint
+
+> Data yang bersih belum tentu menghasilkan analisis yang berguna jika pertanyaan bisnisnya salah.
