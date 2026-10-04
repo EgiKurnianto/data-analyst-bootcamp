@@ -6,21 +6,45 @@ Program belajar mandiri 52 minggu untuk membangun kompetensi dan portofolio Data
 
 **Week 01 — Foundation: Completed / LULUS**  
 **Final Assessment: 93/100**  
-**Study time: 14 jam (2 jam/hari)**
+**Study time: 14 jam**
 
-Week 01 membangun fondasi berpikir sebagai analyst: **Business Problem → Business Question → Data → Analysis → Information → Insight → Recommendation**.
+**Week 02 — Tools, SQL & Business Analysis: In Progress**  
+**Day 01–04: Completed**  
+**Day 05: Assessment 95/100 (isi halaman Completed; tracker Notion masih perlu disinkronkan)**  
+**Day 06: Materi siap, belum dikerjakan**
+
+Week 02 mulai menerapkan fondasi Week 01 ke workflow praktik: SQL, version control, KPI, funnel, business questions, dan mini data analysis.
+
+## Core Analytical Workflow
+
+**Business Problem → Business Question → Data → Analysis → Information → Insight → Recommendation**
+
+Untuk analisis lanjutan:
+
+**Data → Metric → Pattern → Insight → Recommendation**
 
 ## Kompetensi yang Sudah Dibangun
 
+### Week 01
 - Data Analyst role dan analytical workflow
-- Dataset literacy: row, column, record, variable, ID
-- Data types: Text, Number, Date, Categorical, Numerical
-- Data Quality: Missing, Duplicate, Invalid, Inconsistent
-- Business Question dan problem framing
+- Dataset literacy
+- Data types
+- Data quality
+- Business Question
 - Percentage change dan conversion rate
 - Information vs Insight
-- Analytical rigor dan batas causal claim
-- Mini Data Analysis end-to-end
+- Analytical rigor
+
+### Week 02
+- MySQL & MySQL Workbench
+- SQL aggregation, filtering, grouping, sorting
+- Revenue, unit sales, contribution, AOV
+- Git & GitHub workflow
+- KPI, Funnel, Drop-off, Conversion Rate, Retention Rate
+- Business Problem → Business Question
+- Data requirements & metric selection
+- Mini business case analysis
+- Fact vs hypothesis vs causal claim
 
 ## Kurikulum Utama
 
@@ -41,15 +65,23 @@ data-analyst-bootcamp/
 ├── README.md
 ├── ROADMAP.md
 ├── PROGRESS.md
-└── week-01/
+├── week-01/
+│   ├── README.md
+│   ├── day-01.md
+│   ├── day-02.md
+│   ├── day-03.md
+│   ├── day-04.md
+│   ├── day-05.md
+│   ├── day-06.md
+│   └── day-07.md
+└── week-02/
     ├── README.md
     ├── day-01.md
     ├── day-02.md
     ├── day-03.md
     ├── day-04.md
     ├── day-05.md
-    ├── day-06.md
-    └── day-07.md
+    └── day-06.md
 ```
 
 ## Prinsip Belajar
@@ -66,6 +98,7 @@ data-analyst-bootcamp/
 - [Roadmap 52 Minggu](./ROADMAP.md)
 - [Progress Belajar](./PROGRESS.md)
 - [Week 01 — Foundation](./week-01/README.md)
+- [Week 02 — Tools, SQL & Business Analysis](./week-02/README.md)
 
 ## Catatan Privasi
 
