@@ -7,7 +7,7 @@ Roadmap ini disusun untuk pembelajar dari nol dengan waktu belajar konsisten sek
 | Minggu | Fokus | Output |
 |---|---|---|
 | 01 | Pengenalan Data Analyst, data workflow, spreadsheet, statistik dan visualisasi dasar | Mini analysis dataset sederhana |
-| 02 | Excel formulas, relative/absolute reference, lookup, dan logical functions | Workbook analisis operasional |
+| 02 | Tools, SQL, Git/GitHub, KPI, Funnel, Business Questions & Mini Analysis | SQL analysis, version-controlled portfolio, KPI/funnel case |
 | 03 | Data cleaning dan data validation di spreadsheet | Dataset bersih + data dictionary |
 | 04 | Pivot Table, Pivot Chart, dan dashboard spreadsheet | Dashboard KPI sederhana |
 
