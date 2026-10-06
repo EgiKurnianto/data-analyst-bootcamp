@@ -104,4 +104,5 @@ Prioritas investigasi: **Traffic Source/Quality → Product Detail Page/UX → A
 | 03–52 | ⚪ Not Started |
 
 ## Next Step
-**Week 2 selesai. Next: Week 3 — Data Cleaning & Data Validation di Spreadsheet.**
+
+**Week 3:** mengikuti roadmap optimasi terbaru di Notion. Detail minggu berikutnya harus mengikuti roadmap/learning tracker terbaru, bukan roadmap GitHub versi lama.
