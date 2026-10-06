@@ -39,17 +39,23 @@ Maret → April: Visitors +20%, Product Views +20%, Add to Cart -10%, Transactio
 
 **Final assessment Week 2: 98,1/100 — LULUS.**
 
-## Kurikulum Utama
+## Roadmap Optimasi
 
-| Fase | Fokus | Minggu |
-|---|---|---:|
-| 1 | Foundation & Spreadsheet | 1–4 |
-| 2 | SQL | 5–12 |
-| 3 | Python & Data Analysis | 13–20 |
-| 4 | Statistics, EDA & Visualization | 21–28 |
-| 5 | Power BI & Business Intelligence | 29–36 |
-| 6 | Portfolio Projects | 37–44 |
-| 7 | Career Readiness & Capstone | 45–52 |
+| Fase | Minggu | Fokus |
+|---|---:|---|
+| 1 | 1–3 | Fundamental Data + Git Setup |
+| 2 | 4–8 | Excel |
+| 3 | 9–14 | SQL |
+| 4 | 15–19 | Applied Statistics |
+| 5 | 20–23 | Python Fundamentals |
+| 6 | 24–29 | Data Cleaning & EDA |
+| 7 | 30–34 | Power BI & Visualization |
+| 8 | 35–37 | Python Visualization & Analytical Storytelling |
+| 9 | 38–41 | Business Analytics |
+| 10 | 42–48 | Portfolio Projects + Professional Branding |
+| 11 | 49–52 | Interview & Job Ready |
+
+> Roadmap ini mengikuti versi optimasi terbaru di Notion. Week 1–2 di repository mendokumentasikan progres aktual yang sudah dikerjakan.
 
 ## Struktur Repository
 
@@ -59,9 +65,13 @@ data-analyst-bootcamp/
 ├── ROADMAP.md
 ├── PROGRESS.md
 ├── week-01/
+│   ├── README.md
+│   └── day-01.md ... day-07.md
 └── week-02/
     ├── README.md
+    ├── day-01-tools-sql.md
     ├── day-01.md
+    ├── day-02-git-notes.md
     ├── day-02.md
     ├── day-03.md
     ├── day-04.md
