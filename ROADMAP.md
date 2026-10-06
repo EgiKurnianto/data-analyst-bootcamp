@@ -1,93 +1,78 @@
 # Roadmap Data Analyst — 52 Minggu
 
-Roadmap ini disusun untuk pembelajar dari nol dengan waktu belajar konsisten sekitar 1–2 jam per hari.
+Roadmap ini mengikuti versi optimasi terbaru di Notion dan menjadi panduan belajar dari nol hingga job-ready Junior Data Analyst.
 
-## Fase 1 — Fundamental dan Spreadsheet
+> **Source of truth:** Notion — Data Analyst 52 Week Career Roadmap  
+> **Komitmen:** sekitar 2 jam/hari · 7 hari/minggu  
+> **Standar kelulusan:** minimal 80% + deliverable utama selesai + mampu menjelaskan proses dengan bahasa sendiri.
 
-| Minggu | Fokus | Output |
-|---|---|---|
-| 01 | Pengenalan Data Analyst, data workflow, spreadsheet, statistik dan visualisasi dasar | Mini analysis dataset sederhana |
-| 02 | Tools, SQL, Git/GitHub, KPI, Funnel, Business Questions & Mini Analysis | SQL analysis, version-controlled portfolio, KPI/funnel case |
-| 03 | Data cleaning dan data validation di spreadsheet | Dataset bersih + data dictionary |
-| 04 | Pivot Table, Pivot Chart, dan dashboard spreadsheet | Dashboard KPI sederhana |
+## Roadmap Optimasi
 
-### Milestone
-- Week 01: **Completed — 93/100**
-- Week 02: **Completed — 98,1/100**
-- Next: Week 03 — **Data Cleaning & Data Validation di Spreadsheet**
+| Fase | Minggu | Fokus |
+|---|---:|---|
+| 1 | 1–3 | Fundamental Data + Git Setup |
+| 2 | 4–8 | Excel |
+| 3 | 9–14 | SQL |
+| 4 | 15–19 | Applied Statistics |
+| 5 | 20–23 | Python Fundamentals (Pandas/NumPy) |
+| 6 | 24–29 | Data Cleaning & EDA |
+| 7 | 30–34 | Power BI & Visualization |
+| 8 | 35–37 | Python Visualization & Analytical Storytelling |
+| 9 | 38–41 | Business Analytics |
+| 10 | 42–48 | Portfolio Projects + Professional Branding |
+| 11 | 49–52 | Interview & Job Ready |
 
-## Fase 2 — SQL
+### Paralel: Job Prep
 
-| Minggu | Fokus | Output |
-|---|---|---|
-| 05 | Database, tabel, SELECT, WHERE, ORDER BY | Query dasar |
-| 06 | DISTINCT, LIMIT, alias, operator, CASE WHEN | Query filtering dan klasifikasi |
-| 07 | Aggregate functions dan GROUP BY | Ringkasan metrik bisnis |
-| 08 | JOIN: INNER, LEFT, RIGHT, FULL | Analisis multi-tabel |
-| 09 | Subquery dan Common Table Expression | Query bertingkat |
-| 10 | Window functions | Ranking, running total, retention dasar |
-| 11 | Date functions dan text functions | Analisis waktu dan data teks |
-| 12 | SQL case study | Project analisis menggunakan SQL |
+Mulai sekitar Week 30–52 dengan beban ringan 15–20 menit, 2–3 kali per minggu: LinkedIn, networking, riset perusahaan, persiapan karier, dan application tracker.
 
-## Fase 3 — Python
-| Minggu | Fokus | Output |
-|---|---|---|
-| 13 | Python environment, syntax, variables, data types | Script Python dasar |
-| 14 | Conditional, loops, functions | Utility analysis script |
-| 15 | List, tuple, dictionary, set, comprehension | Manipulasi data Python |
-| 16 | File handling, CSV, JSON, error handling | Pipeline input data sederhana |
-| 17 | NumPy dasar | Operasi numerik |
-| 18 | Pandas Series, DataFrame, indexing | Notebook analisis data |
-| 19 | Cleaning dan transformation dengan Pandas | Dataset bersih |
-| 20 | Grouping, merging, exporting | Dataset analitik siap pakai |
+## Progress Aktual
 
-## Fase 4 — Statistik, EDA, dan Visualisasi
-| Minggu | Fokus | Output |
-|---|---|---|
-| 21 | Statistik deskriptif | Statistical summary |
-| 22 | Distribusi, outlier, missing values | Laporan kualitas data |
-| 23 | Probabilitas dan sampling dasar | Analisis ketidakpastian sederhana |
-| 24 | Korelasi dan regresi linear pengantar | Analisis hubungan variabel |
-| 25 | Exploratory Data Analysis | EDA notebook |
-| 26 | Matplotlib dan Seaborn | Visualisasi eksploratif |
-| 27 | Prinsip visualisasi dan data storytelling | Storyboard insight |
-| 28 | EDA case study | Laporan EDA lengkap |
+- **Week 01:** Completed — LULUS — 93/100
+- **Week 02:** Completed — LULUS — 98,1/100
+- **Week 03:** Belum dimulai
 
-## Fase 5 — Power BI dan Business Intelligence
-| Minggu | Fokus | Output |
-|---|---|---|
-| 29 | Power BI interface dan data import | File PBIX awal |
-| 30 | Power Query dan transformasi | Data model bersih |
-| 31 | Data modeling, relationship, star schema | Model analitik |
-| 32 | DAX dasar dan calculated columns | Measures KPI |
-| 33 | DAX lanjutan dan time intelligence | Analisis tren |
-| 34 | Dashboard design dan interaksi | Dashboard interaktif |
-| 35 | Power BI publishing, refresh, sharing | Dashboard siap presentasi |
-| 36 | Power BI case study | Project dashboard bisnis |
+> Week 1–2 yang sudah dikerjakan didokumentasikan berdasarkan Learning Tracker di Notion. Struktur roadmap di atas adalah versi optimasi Notion dan dapat berbeda dari urutan materi yang sudah terlanjur dipraktikkan.
 
-## Fase 6 — Portfolio Project
-| Minggu | Fokus | Output |
-|---|---|---|
-| 37 | Project Sales Analytics | Sales performance report |
-| 38 | Project E-commerce Analytics | Funnel dan customer behavior report |
-| 39 | Project Marketing Analytics | Campaign performance report |
-| 40 | Project Customer Analytics | Segmentation dan retention report |
-| 41 | Penyempurnaan SQL dan Python project | Repository terstruktur |
-| 42 | Dokumentasi README, data dictionary, metodologi | Dokumentasi portfolio |
-| 43 | Presentasi insight dan business recommendation | Slide atau executive summary |
-| 44 | Review dan publikasi portfolio | Portfolio project final |
+## Milestone Pembelajaran
 
-## Fase 7 — Career Readiness dan Capstone
-| Minggu | Fokus | Output |
-|---|---|---|
-| 45 | Menulis CV Data Analyst | CV versi ATS |
-| 46 | LinkedIn dan personal branding | Profil profesional |
-| 47 | Latihan SQL interview | Kumpulan jawaban interview |
-| 48 | Latihan case study dan product sense | Case study solution |
-| 49 | Capstone: business problem definition | Project brief |
-| 50 | Capstone: analysis dan dashboard | Capstone analysis |
-| 51 | Capstone: presentation dan review | Final presentation |
-| 52 | Evaluasi akhir dan job application system | Career-ready portfolio |
+- **Week 1–14:** Foundation + Tools — fundamental analytical thinking, Git, Excel, dan SQL.
+- **Week 15–23:** Analytical Core — Applied Statistics dan Python Fundamentals.
+- **Week 24–37:** Technical Analyst Stack — Data Cleaning, EDA, Power BI, visualization, dan analytical storytelling.
+- **Week 38–48:** Business + Portfolio — business analytics dan portfolio project.
+- **Week 49–52:** Job Ready — CV, LinkedIn, interview, capstone, dan job application.
 
-## Aturan Perpindahan Minggu
-Lanjut setelah minimal 80% latihan inti selesai, konsep dapat dijelaskan tanpa menyalin, mini project dapat dibaca ulang, temuan/asumsi/keterbatasan terdokumentasi, dan assessment minggu mencapai minimal 80%.
+## Portfolio Target
+
+Minimal 4 project serius yang dibangun bertahap:
+
+1. Sales Analytics.
+2. E-commerce Analytics dengan dashboard Power BI.
+3. Marketing / Customer Analytics menggunakan Python.
+4. Project ke-4 + portfolio polish.
+
+Setiap project idealnya berisi:
+
+**Business Problem → Dataset → Cleaning → Analysis → Visualization → Insights → Business Recommendations → README**
+
+## Quality Gate
+
+Lanjut setelah:
+1. Nilai assessment minimal **80/100**.
+2. Deliverable utama selesai.
+3. Konsep dapat dijelaskan tanpa menyalin.
+4. Latihan dapat diulang secara mandiri.
+5. Insight, asumsi, dan keterbatasan terdokumentasi.
+6. Project mampu menjawab **“So what?”**.
+
+## Prinsip Analisis
+
+- Mulai dari business problem, bukan tools.
+- Business question menentukan data yang dibutuhkan.
+- Bedakan fakta, information, insight, hipotesis, dan causal claim.
+- Jangan menyatakan penyebab tanpa evidence yang cukup.
+- Recommendation harus terhubung dengan insight.
+- Threshold/target eksperimen harus divalidasi dengan data.
+- Dokumentasikan reasoning, bukan hanya hasil akhir.
+
+**Repository:** EgiKurnianto/data-analyst-bootcamp
