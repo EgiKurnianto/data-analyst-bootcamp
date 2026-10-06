@@ -43,28 +43,47 @@ Next Action
 
 Tabel: `penjualan`
 
-Mini analysis menggunakan data penjualan dengan **20 transaksi**, **25 unit**, dan total revenue **Rp48.800.000**.
+Kolom utama:
+- `transaction_id`
+- `tanggal`
+- `produk`
+- `jumlah`
+- `total_penjualan`
 
-Contoh query yang dipraktikkan:
+**Periode latihan utama:** Februari 2026.
 
-```sql
-SELECT produk, SUM(total_penjualan) AS total_revenue
-FROM penjualan
-GROUP BY produk
-ORDER BY total_revenue DESC;
-```
+> **Catatan penting:** Day 3 menggunakan subset transaksi Februari 2026. Jangan mencampurkan angka subset ini dengan total dataset utama Day 1.
+
+## Mini Challenge
+
+Business Question:
+
+> Manager ingin mengetahui performa penjualan setiap produk selama Februari 2026.
+
+Query menggunakan `COUNT(transaction_id)`, `SUM(jumlah)`, `SUM(total_penjualan)`, filter Februari 2026, `GROUP BY produk`, dan `ORDER BY total_revenue DESC`.
+
+### Hasil Mini Challenge
+
+| Produk | Total Transaksi | Total Unit | Total Revenue |
+|---|---:|---:|---:|
+| Laptop | 2 | 2 | Rp14.100.000 |
+| Monitor | 2 | 2 | Rp5.000.000 |
+| Headset | 2 | 5 | Rp1.250.000 |
+| Mouse | 2 | 6 | Rp900.000 |
+| Keyboard | 2 | 3 | Rp900.000 |
 
 ## Business Findings
 
-- Laptop menghasilkan revenue terbesar: **Rp14.100.000** pada mini challenge Februari 2026.
-- Mouse memiliki volume unit tinggi, tetapi revenue tidak otomatis menjadi yang terbesar.
-- Kategori Elektronik menjadi kontributor revenue terbesar pada dataset latihan.
+- Laptop memiliki revenue terbesar: **Rp14.100.000**, dengan 2 transaksi dan 2 unit.
+- Mouse memiliki unit terjual terbanyak: **6 unit**, tetapi revenue **Rp900.000**.
+- Semua produk memiliki **2 transaksi** pada subset Februari ini.
+- Perbedaan revenue perlu dibaca bersama unit dan nilai transaksi.
 
 ## Key Insight
 
 **Volume penjualan tinggi tidak selalu berarti revenue tinggi.**
 
-Nilai transaksi per unit harus dipertimbangkan ketika membaca performa produk.
+Untuk menjelaskan penyebab perbedaan revenue secara lebih lengkap, masih diperlukan data seperti harga, diskon, promosi, margin, atau karakteristik pelanggan.
 
 ## Analytical Standard
 
