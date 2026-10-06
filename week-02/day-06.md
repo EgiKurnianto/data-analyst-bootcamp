@@ -1,78 +1,77 @@
 # Week 02 Day 06 — Mini Data Analysis #2
 
-**Status:** 🟡 Materi siap, belum dikerjakan  
-**Planned Study Time:** 2 jam
+**Status:** 🟢 Completed — LULUS  
+**Assessment:** **96/100**  
+**Study Time:** **2 jam**
 
-> Halaman Notion secara eksplisit mencatat Day 6 sebagai **belum dikerjakan**. Dokumentasi ini menyimpan case yang sudah disiapkan tanpa mengklaim analysis sebagai hasil pengerjaan.
+## Business Problem
 
-## Objective
+Sebuah toko online mengalami penurunan revenue pada bulan April.
 
-Melakukan mini data analysis menggunakan dataset yang lebih kompleks dengan alur:
+| Metric | Maret | April | Perubahan |
+|---|---:|---:|---:|
+| Visitors | 20.000 | 24.000 | +20% |
+| Product Views | 15.000 | 18.000 | +20% |
+| Add to Cart | 6.000 | 5.400 | -10% |
+| Transactions | 4.000 | 3.200 | -20% |
+| Revenue | Rp400.000.000 | Rp288.000.000 | -28% |
+| AOV | Rp100.000 | Rp90.000 | -10% |
+| Retention Rate | 70% | 55% | -15 pp |
 
-**Business Problem → Business Question → Data → Analysis → Insight → Recommendation**
-
-## Case
-
-Sebuah toko online mengalami penurunan revenue pada April.
-
-| Metric | Maret | April |
-|---|---:|---:|
-| Visitors | 20.000 | 24.000 |
-| Product Views | 15.000 | 18.000 |
-| Add to Cart | 6.000 | 5.400 |
-| Transactions | 4.000 | 3.200 |
-| Revenue | Rp400.000.000 | Rp288.000.000 |
-| AOV | Rp100.000 | Rp90.000 |
-| Retention Rate | 70% | 55% |
-
-## Analysis Tasks
-
-### 1. Business Questions
-
-- Mengapa Visitors dan Product Views meningkat tetapi Add to Cart dan Transactions menurun?
-- Apa yang menyebabkan Retention Rate dan AOV turun bersamaan?
-
-### 2. KPI Analysis
-
-Target perhitungan:
-- Revenue change
-- Transaction change
-- AOV change
-- Retention change
-
-### 3. Funnel Analysis
-
-Prioritas:
-
-**Product Views → Add to Cart**
+## KPI & Funnel Analysis
 
 Maret:
-
-`6.000 ÷ 15.000 = 40%`
+- Visitors → Product Views = 75%
+- Product Views → Add to Cart = 40%
+- Add to Cart → Transactions = 66,67%
 
 April:
+- Visitors → Product Views = 75%
+- Product Views → Add to Cart = 30%
+- Add to Cart → Transactions = 59,26%
 
-`5.400 ÷ 18.000 = 30%`
+**Funnel priority:** Product Views → Add to Cart, turun **40% → 30% (-10 pp)**.
 
-Penurunan conversion rate: **10 percentage points**.
+## Insight
 
-### 4. Insight Framework
+**Fakta:** traffic dan Product Views naik 20%, tetapi Add to Cart turun 10%.
 
-**Fakta:** Visitors dan Product Views naik, tetapi Add to Cart turun.
+**Interpretasi:** pertumbuhan traffic belum menghasilkan peningkatan purchase intent.
 
-**Hipotesis:** kualitas traffic, product detail page, harga, stok, UX, atau kendala teknis mungkin berkontribusi.
+**Hipotesis:** kualitas traffic, Product Detail Page, harga, informasi produk, UX, stok, technical issue, atau perubahan perilaku pelanggan.
 
-Hipotesis tersebut **belum dapat dianggap sebagai penyebab pasti** tanpa data tambahan.
+Transactions turun 20%, AOV turun 10%, dan Revenue turun 28%. Retention juga turun 70% → 55%.
 
-### 5. Recommendation Framework
+> Hipotesis tidak dianggap sebagai root cause tanpa data tambahan.
 
-- Audit Product Detail Page & Marketing Channel.
-- Evaluasi harga, informasi produk, stok, UX, dan kualitas traffic.
-- Lakukan win-back pelanggan lama.
-- Uji bundling/minimum purchase threshold untuk meningkatkan AOV.
+## Recommendation
 
-## Learning Standard
+### 1. Audit Product Detail Page & Marketing Channel
+- Audit UX/UI PDP.
+- Periksa harga, informasi produk, stok, review/social proof, dan CTA.
+- Evaluasi kualitas traffic berdasarkan channel.
+- Periksa perubahan harga, promo, UX, dan technical issue.
 
-Jangan hanya melihat revenue. Breakdown revenue menjadi **Transactions + AOV**, lalu gunakan funnel dan retention untuk mencari area yang perlu diperiksa.
+### 2. Recovery Transactions & AOV
+- Uji product bundling.
+- Uji minimum purchase/free-shipping threshold.
+- Jalankan cart abandonment recovery.
+- Validasi threshold dengan margin, historical data, dan A/B test.
 
-**Next:** kerjakan analysis secara bertahap dan dokumentasikan hasil perhitungan serta insight setelah pengerjaan selesai.
+### 3. Win-back & Retention Recovery
+- Identifikasi customer yang belum repeat order.
+- Jalankan personalized win-back campaign.
+- Uji voucher, loyalty points, atau benefit.
+- Gunakan segmentasi recency, frequency, dan value.
+
+## Assessment
+
+| Komponen | Nilai |
+|---|---:|
+| KPI Analysis | 10/10 |
+| Funnel Analysis | 10/10 |
+| Insight | 9/10 |
+| Recommendation | 9,5/10 |
+| **Final** | **96/100** |
+
+**Status: LULUS — Week 2 Day 6.**
