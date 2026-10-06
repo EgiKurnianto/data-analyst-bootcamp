@@ -1,38 +1,38 @@
-\# Week 2 — Day 2
+# Week 2 — Day 2
 
-\## Instalasi \& Dasar Git/GitHub
-
-
-
-\### Tujuan Pembelajaran
+## Instalasi & Dasar Git/GitHub
 
 
 
-\- Memahami perbedaan Git dan GitHub.
-
-\- Memahami Repository, Working Directory, Staging Area, Commit, Branch, dan Remote.
-
-\- Memahami workflow dasar Git.
-
-\- Menggunakan Git untuk mendokumentasikan project Data Analyst.
+### Tujuan Pembelajaran
 
 
 
-\---
+- Memahami perbedaan Git dan GitHub.
+
+- Memahami Repository, Working Directory, Staging Area, Commit, Branch, dan Remote.
+
+- Memahami workflow dasar Git.
+
+- Menggunakan Git untuk mendokumentasikan project Data Analyst.
 
 
 
-\## 1. Git vs GitHub
+---
 
 
 
-\### Git
+## 1. Git vs GitHub
+
+
+
+### Git
 
 Git adalah version control yang berjalan di komputer lokal untuk mencatat dan melacak perubahan pada project.
 
 
 
-\### GitHub
+### GitHub
 
 GitHub adalah platform online untuk menyimpan dan membagikan repository Git.
 
@@ -42,17 +42,17 @@ Analogi:
 
 
 
-\- Git = buku catatan versi di laptop.
+- Git = buku catatan versi di laptop.
 
-\- GitHub = tempat menyimpan dan membagikan buku tersebut secara online.
-
-
-
-\---
+- GitHub = tempat menyimpan dan membagikan buku tersebut secara online.
 
 
 
-\## 2. Git Workflow
+---
+
+
+
+## 2. Git Workflow
 
 
 
@@ -94,15 +94,15 @@ Edit file
 
 
 
-\---
+---
 
 
 
-\## 3. Perintah Git yang Dipelajari
+## 3. Perintah Git yang Dipelajari
 
 
 
-\### Mengecek versi Git
+### Mengecek versi Git
 
 
 
