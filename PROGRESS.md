@@ -46,7 +46,13 @@ Mini analysis Januari–April: visitors tetap 10.000/bulan; transactions 1.000 �
 ### Day 01–04
 - **Day 01 — Dataset utama:** total revenue Rp48.800.000; Laptop Rp36.100.000 dari 5 unit (~70,37% total revenue); Elektronik Rp43.600.000.
 - **Day 02:** Git 2.43.0.windows.1 terverifikasi; workflow add → commit → push berhasil.
-- **Day 03 — Mini challenge Februari 2026:** Laptop Rp14.100.000 dan Mouse Rp900.000; masing-masing memiliki 2 transaksi. Angka ini adalah hasil subset periode Februari, **bukan total revenue dataset utama Day 01**.
+- **Day 03 — Mini challenge Februari 2026:** hasil subset periode Februari:
+  - Laptop: **Rp14.100.000**, 2 transaksi, 2 unit.
+  - Monitor: **Rp5.000.000**, 2 transaksi, 2 unit.
+  - Headset: **Rp1.250.000**, 2 transaksi, 5 unit.
+  - Mouse: **Rp900.000**, 2 transaksi, 6 unit.
+  - Keyboard: **Rp900.000**, 2 transaksi, 3 unit.
+  - Semua angka di bagian ini adalah **subset Februari**, bukan total revenue dataset utama Day 01.
 - **Day 04:** KPI, funnel, conversion dan retention dipraktikkan.
 
 ### Day 05 — Business Questions
