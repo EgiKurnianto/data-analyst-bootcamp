@@ -44,11 +44,10 @@ Mini analysis Januari–April: visitors tetap 10.000/bulan; transactions 1.000 �
 | 07 | Ujian Mini Week 2 | 98,1/100 — LULUS | 🏆 Completed |
 
 ### Day 01–04
-- MySQL/MySQL Workbench dan SQL dasar dipraktikkan.
-- Total revenue dataset Rp48.800.000; Laptop Rp36.100.000 (~70,37%).
-- Git 2.43.0.windows.1 terverifikasi; workflow add → commit → push berhasil.
-- SQL Exercise 1–20 selesai; review 5/5; mini challenge Februari selesai.
-- KPI, funnel, conversion dan retention dipraktikkan.
+- **Day 01 — Dataset utama:** total revenue Rp48.800.000; Laptop Rp36.100.000 dari 5 unit (~70,37% total revenue); Elektronik Rp43.600.000.
+- **Day 02:** Git 2.43.0.windows.1 terverifikasi; workflow add → commit → push berhasil.
+- **Day 03 — Mini challenge Februari 2026:** Laptop Rp14.100.000 dan Mouse Rp900.000; masing-masing memiliki 2 transaksi. Angka ini adalah hasil subset periode Februari, **bukan total revenue dataset utama Day 01**.
+- **Day 04:** KPI, funnel, conversion dan retention dipraktikkan.
 
 ### Day 05 — Business Questions
 Assessment **95/100 — LULUS**.
@@ -80,6 +79,7 @@ Final assessment **98,1/100 — LULUS**.
 - Recommendation: 9,5/10.
 - Total 78,5/80 = 98,1/100.
 - Kompetensi: SQL fundamentals, KPI/funnel, conversion, retention, AOV, business insight, fakta vs hipotesis, recommendation, dan prioritas investigasi.
+- **Validasi dataset Februari:** Laptop Rp14.100.000 vs Mouse Rp900.000; masing-masing 2 transaksi; Laptop Rp7.050.000/unit vs Mouse Rp150.000/unit.
 
 ## Week 02 Final Analytical Case
 Traffic meningkat, tetapi business outcome menurun. Titik perubahan paling jelas adalah Product Views → Add to Cart: 40% → 30%. Revenue tertekan dari transactions yang turun 20% dan AOV yang turun 10%. Retention turun 15 pp.
