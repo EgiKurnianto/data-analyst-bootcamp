@@ -108,7 +108,8 @@ Prioritas investigasi: **Traffic Source/Quality → Product Detail Page/UX → A
 **Day 01:** PASS — 88/100 (latihan mentor sementara; halaman materi Notion awal ditemukan kosong).  
 **Day 02:** PASS — 92/100 (latihan mentor sementara; halaman materi Notion awal ditemukan kosong).  
 **Day 03:** PASS — 91/100 (latihan mentor sementara; halaman materi Notion awal ditemukan kosong).  
-**Day 04:** PASS — 91/100 (materi dan dataset sintetis mentor sementara; halaman materi Notion awal ditemukan kosong).
+**Day 04:** PASS — 91/100 (materi dan dataset sintetis mentor sementara; halaman materi Notion awal ditemukan kosong).  
+**Day 05:** PASS — 91/100 (materi dan dataset sintetis mentor sementara; halaman materi Notion awal ditemukan kosong).
 
 | Day | Materi | Score / Evidence | Status |
 |---:|---|---|---|
@@ -116,22 +117,24 @@ Prioritas investigasi: **Traffic Source/Quality → Product Detail Page/UX → A
 | 02 | Anatomi Dataset Lanjutan (Data Quality Awal) | 92/100 — PASS (latihan mentor sementara) | ✅ Completed |
 | 03 | Struktur Folder Awal Repo Portfolio di GitHub | 91/100 — PASS ([review](./week-03/day-03-github-portfolio-structure.md)) | ✅ Completed |
 | 04 | Studi Kasus Bisnis Kompleks (Multi-Metric) | 91/100 — PASS ([review](./week-03/day-04-multi-metric-business-case.md)) | ✅ Completed |
-| 05 | Business Questions → Rencana Analisis | Belum dimulai | ⚪ Not Started |
+| 05 | Business Questions → Rencana Analisis | 91/100 — PASS ([review](./week-03/day-05-business-questions-analysis-plan.md)) | ✅ Completed |
 | 06 | Mini Project Fundamental (End-to-End Sederhana) | Belum dimulai | ⚪ Not Started |
 | 07 | Ujian Fundamental Gabungan | Gate ke Excel; target ≥80% | ⚪ Not Started |
 
 **Catatan Day 01:** conversion rate 20% → 13,33%, AOV Rp100.000 → Rp90.000, dan revenue turun 28% pada dataset sintetis latihan. Hipotesis unqualified traffic belum terbukti; tidak ada klaim sebab-akibat tanpa data tambahan.
 
-> Halaman materi Day 01 dan Day 02 di Notion ditemukan kosong saat diperiksa. Materi Day 01 didokumentasikan sebagai latihan mentor sementara; materi Day 02 juga dibuat sebagai materi sementara berdasarkan judul tracker. Notion tetap menjadi source of truth.
+> Halaman materi Day 01, Day 02, Day 03, Day 04, dan Day 05 di Notion ditemukan kosong saat diperiksa. Materi latihan tersebut didokumentasikan sebagai materi mentor sementara dengan label yang jelas. Dataset Day 4 dan Day 5 bersifat sintetis. Notion tetap menjadi source of truth.
+
+**Catatan Day 05:** revenue Rp120 juta → Rp102 juta (-15%); transaksi 6.000 → 5.400 (-10%); visitors 10.000 → 10.800 (+8%); marketing spend Rp8 juta → Rp10 juta (+25%); AOV Rp20.000 → sekitar Rp18.889 (-5,56%); pelanggan yang kembali 2.400 → 1.890 (-21,25%). Conversion pengunjung ke transaksi secara awal 60% → 50%, jika definisi dan periode konsisten. Penyebab belum terbukti. CAC memerlukan data pelanggan baru; ROAS memerlukan atribusi revenue; retention perlu definisi cohort dan eligibility.
 
 ## 52-Week Status
 | Week | Status |
 |---:|---|
 | 01 | 🟢 Completed — 93/100 |
 | 02 | 🟢 Completed — 98,1/100 |
-| 03 | 🟡 In Progress — Day 01 PASS; Day 02 PASS; Day 03 PASS; Day 04 PASS |
+| 03 | 🟡 In Progress — Day 01 PASS; Day 02 PASS; Day 03 PASS; Day 04 PASS; Day 05 PASS |
 | 04–52 | ⚪ Not Started |
 
 ## Next Step
 
-**Week 03 Day 05 — Business Questions → Rencana Analisis:** next step. Day 04 PASS 91/100; materi dan dataset latihan sintetis disusun sementara mentor karena halaman materi awal Notion kosong. Review: [Day 4 Multi-Metric Business Case](./week-03/day-04-multi-metric-business-case.md). Catatan review Day 3: `portfolio/README.md` belum ditemukan dan tidak boleh dianggap sudah ada.
+**Week 03 Day 06 — Mini Project Fundamental (End-to-End Sederhana).** Day 05 PASS 91/100. Review: [Day 5 Business Questions → Rencana Analisis](./week-03/day-05-business-questions-analysis-plan.md). Materi dan dataset latihan sintetis sementara mentor karena halaman materi awal Notion kosong. Catatan review Day 3: `portfolio/README.md` belum ditemukan dan tidak boleh dianggap sudah ada.
