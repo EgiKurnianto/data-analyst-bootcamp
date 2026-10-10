@@ -30,9 +30,9 @@ Mulai sekitar Week 30–52 dengan beban ringan 15–20 menit, 2–3 kali per min
 
 - **Week 01:** Completed — LULUS — 93/100
 - **Week 02:** Completed — LULUS — 98,1/100
-- **Week 03:** Belum dimulai
+- **Week 03:** In Progress — Day 01 PASS 88/100 (latihan mentor sementara); Day 02 In Progress
 
-> Week 1–2 yang sudah dikerjakan didokumentasikan berdasarkan Learning Tracker di Notion. Struktur roadmap di atas adalah versi optimasi Notion dan dapat berbeda dari urutan materi yang sudah terlanjur dipraktikkan.
+> Week 1–2 yang sudah dikerjakan didokumentasikan berdasarkan Learning Tracker di Notion. Week 3 Day 1 memperoleh PASS 88/100 pada latihan mentor sementara karena halaman materi awal di Notion kosong. Day 2 sedang dikerjakan dengan materi sementara yang juga diberi label jelas. Notion tetap menjadi source of truth. Struktur roadmap di atas adalah versi optimasi Notion dan dapat berbeda dari urutan materi yang sudah terlanjur dipraktikkan.
 
 ## Milestone Pembelajaran
 
