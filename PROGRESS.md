@@ -2,7 +2,7 @@
 
 Tracker ini mengikuti hasil belajar terbaru di Notion Learning Tracker.
 
-> **Last synced:** 2026-10-06  
+> **Last synced:** 2026-10-10  
 > **Source of truth:** Notion Learning Tracker
 
 ## Week 01 — Foundation
@@ -102,13 +102,34 @@ Prioritas investigasi: **Traffic Source/Quality → Product Detail Page/UX → A
 - Threshold/target eksperimen perlu divalidasi dengan margin, historical data, atau eksperimen.
 - Jika evidence belum cukup, nyatakan hipotesis dan kebutuhan data tambahan.
 
+## Week 03 — Fundamental Analytical Thinking
+
+**Status: 🟡 In Progress**  
+**Day 01:** PASS — 88/100 (latihan mentor sementara; halaman materi Notion awal ditemukan kosong).  
+**Day 02:** In Progress — Anatomi Dataset Lanjutan (Data Quality Awal); belum dinilai.
+
+| Day | Materi | Score / Evidence | Status |
+|---:|---|---|---|
+| 01 | Review Gabungan: Data vs Information vs Insight vs Recommendation | 88/100 — latihan mentor sementara | ✅ Completed |
+| 02 | Anatomi Dataset Lanjutan (Data Quality Awal) | Latihan data quality sedang dikerjakan | 🟡 In Progress |
+| 03 | Struktur Folder Awal Repo Portfolio di GitHub | Belum dimulai | ⚪ Not Started |
+| 04 | Studi Kasus Bisnis Kompleks (Multi-Metric) | Belum dimulai | ⚪ Not Started |
+| 05 | Business Questions → Rencana Analisis | Belum dimulai | ⚪ Not Started |
+| 06 | Mini Project Fundamental (End-to-End Sederhana) | Belum dimulai | ⚪ Not Started |
+| 07 | Ujian Fundamental Gabungan | Gate ke Excel; target ≥80% | ⚪ Not Started |
+
+**Catatan Day 01:** conversion rate 20% → 13,33%, AOV Rp100.000 → Rp90.000, dan revenue turun 28% pada dataset sintetis latihan. Hipotesis unqualified traffic belum terbukti; tidak ada klaim sebab-akibat tanpa data tambahan.
+
+> Halaman materi Day 01 dan Day 02 di Notion ditemukan kosong saat diperiksa. Materi Day 01 didokumentasikan sebagai latihan mentor sementara; materi Day 02 juga dibuat sebagai materi sementara berdasarkan judul tracker. Notion tetap menjadi source of truth.
+
 ## 52-Week Status
 | Week | Status |
 |---:|---|
 | 01 | 🟢 Completed — 93/100 |
 | 02 | 🟢 Completed — 98,1/100 |
-| 03–52 | ⚪ Not Started |
+| 03 | 🟡 In Progress — Day 01 PASS; Day 02 In Progress |
+| 04–52 | ⚪ Not Started |
 
 ## Next Step
 
-**Week 3:** mengikuti roadmap optimasi terbaru di Notion. Detail minggu berikutnya harus mengikuti roadmap/learning tracker terbaru, bukan roadmap GitHub versi lama.
+**Week 03 Day 02 — Anatomi Dataset Lanjutan (Data Quality Awal):** selesaikan latihan identifikasi row/column, missing value, duplicate, invalid value, inconsistent formatting, calculation mismatch, dan aturan validasi. Nilai baru dicatat setelah jawaban direview. Setelah Day 02, lanjut ke struktur folder portfolio GitHub pada Day 03.
