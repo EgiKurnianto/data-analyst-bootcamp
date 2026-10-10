@@ -112,7 +112,7 @@ Prioritas investigasi: **Traffic Source/Quality → Product Detail Page/UX → A
 |---:|---|---|---|
 | 01 | Review Gabungan: Data vs Information vs Insight vs Recommendation | 88/100 — latihan mentor sementara | ✅ Completed |
 | 02 | Anatomi Dataset Lanjutan (Data Quality Awal) | 92/100 — PASS (latihan mentor sementara) | ✅ Completed |
-| 03 | Struktur Folder Awal Repo Portfolio di GitHub | Belum dimulai | ⚪ Not Started |
+| 03 | Struktur Folder Awal Repo Portfolio di GitHub | Latihan sedang dikerjakan; belum ada skor | 🟡 In Progress |
 | 04 | Studi Kasus Bisnis Kompleks (Multi-Metric) | Belum dimulai | ⚪ Not Started |
 | 05 | Business Questions → Rencana Analisis | Belum dimulai | ⚪ Not Started |
 | 06 | Mini Project Fundamental (End-to-End Sederhana) | Belum dimulai | ⚪ Not Started |
