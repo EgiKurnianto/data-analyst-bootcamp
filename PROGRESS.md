@@ -132,4 +132,4 @@ Prioritas investigasi: **Traffic Source/Quality → Product Detail Page/UX → A
 
 ## Next Step
 
-**Week 03 Day 02 — Anatomi Dataset Lanjutan (Data Quality Awal):** PASS 92/100. Dokumentasi: [Day 02 — Data Quality](./week-03/day-02-data-quality.md). Berikutnya: Week 03 Day 03 — Struktur Folder Awal Repo Portfolio di GitHub.
+**Week 03 Day 03 — Struktur Folder Awal Repo Portfolio di GitHub:** sedang dikerjakan; belum ada skor. Materi sementara dan latihan tersedia di Notion. Tidak ada perubahan repo yang dilakukan sebelum struktur yang diusulkan direview.
