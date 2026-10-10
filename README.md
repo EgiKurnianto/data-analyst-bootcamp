@@ -12,7 +12,8 @@ Program belajar mandiri 52 minggu untuk membangun kompetensi dan portofolio Data
 **Week 03 Day 02: PASS — 92/100 (latihan mentor sementara)**  
 **Week 03 Day 03: PASS — 91/100 (latihan mentor sementara)**  
 **Week 03 Day 04: PASS — 91/100 (latihan mentor sementara)**  
-**Week 03 Day 05: PASS — 91/100 (latihan mentor sementara)**
+**Week 03 Day 05: PASS — 91/100 (latihan mentor sementara)**  
+**Week 03 Day 06: PASS — 91/100 (mini project fundamental; dataset sintetis mentor sementara)**
 
 Week 02 menerapkan fondasi Week 01 ke SQL, Git/GitHub, KPI, funnel, business questions, dan mini data analysis. Week 03 melanjutkan analytical thinking dan pemeriksaan awal kualitas dataset. Materi Day 1–5 di Notion ditemukan kosong saat diperiksa; dokumentasi hari-hari tersebut secara eksplisit menandai latihan sebagai materi mentor sementara.
 
@@ -89,7 +90,8 @@ data-analyst-bootcamp/
     ├── day-02-data-quality.md
     ├── day-03-github-portfolio-structure.md
     ├── day-04-multi-metric-business-case.md
-    └── day-05-business-questions-analysis-plan.md
+    ├── day-05-business-questions-analysis-plan.md
+    └── day-06-mini-project-fundamentals.md
 ```
 
 ## Prinsip Belajar
