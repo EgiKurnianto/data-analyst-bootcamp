@@ -84,7 +84,8 @@ data-analyst-bootcamp/
 │   └── day-07.md
 └── week-03/
     ├── day-01-review-analytical-thinking.md
-    └── day-02-data-quality.md
+    ├── day-02-data-quality.md
+    └── day-03-github-portfolio-structure.md
 ```
 
 ## Prinsip Belajar
