@@ -110,6 +110,7 @@ data-analyst-bootcamp/
 - [Week 03 Day 03 — Struktur Repository](./week-03/day-03-github-portfolio-structure.md)
 - [Week 03 Day 04 — Multi-Metric Business Case](./week-03/day-04-multi-metric-business-case.md)
 - [Week 03 Day 05 — Business Questions → Rencana Analisis](./week-03/day-05-business-questions-analysis-plan.md)
+- [Week 03 Day 06 — Mini Project Fundamental](./week-03/day-06-mini-project-fundamentals.md)
 
 ---
 **Owner:** Egi Kurnianto  
