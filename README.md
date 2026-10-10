@@ -9,7 +9,8 @@ Program belajar mandiri 52 minggu untuk membangun kompetensi dan portofolio Data
 **Week 02 Day 01–07: Completed**  
 **Week 03 — Fundamental Analytical Thinking: In Progress**  
 **Week 03 Day 01: PASS — 88/100 (latihan mentor sementara)**  
-**Week 03 Day 02: PASS — 92/100 (latihan mentor sementara)**
+**Week 03 Day 02: PASS — 92/100 (latihan mentor sementara)**  
+**Week 03 Day 03: PASS — 91/100 (latihan mentor sementara)**
 
 Week 02 menerapkan fondasi Week 01 ke SQL, Git/GitHub, KPI, funnel, business questions, dan mini data analysis. Week 03 melanjutkan analytical thinking dan pemeriksaan awal kualitas dataset. Materi Day 1–2 di Notion ditemukan kosong saat diperiksa; dokumentasi kedua hari secara eksplisit menandai latihan sebagai materi mentor sementara.
 
@@ -101,6 +102,7 @@ data-analyst-bootcamp/
 - [Week 02](./week-02/README.md)
 - [Week 03 Day 01 — Review Analytical Thinking](./week-03/day-01-review-analytical-thinking.md)
 - [Week 03 Day 02 — Data Quality](./week-03/day-02-data-quality.md)
+- [Week 03 Day 03 — Struktur Repository](./week-03/day-03-github-portfolio-structure.md)
 
 ---
 **Owner:** Egi Kurnianto  
