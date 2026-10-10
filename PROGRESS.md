@@ -109,7 +109,8 @@ Prioritas investigasi: **Traffic Source/Quality → Product Detail Page/UX → A
 **Day 02:** PASS — 92/100 (latihan mentor sementara; halaman materi Notion awal ditemukan kosong).  
 **Day 03:** PASS — 91/100 (latihan mentor sementara; halaman materi Notion awal ditemukan kosong).  
 **Day 04:** PASS — 91/100 (materi dan dataset sintetis mentor sementara; halaman materi Notion awal ditemukan kosong).  
-**Day 05:** PASS — 91/100 (materi dan dataset sintetis mentor sementara; halaman materi Notion awal ditemukan kosong).
+**Day 05:** PASS — 91/100 (materi dan dataset sintetis mentor sementara; halaman materi Notion awal ditemukan kosong).  
+**Day 06:** PASS — 91/100 (mini project fundamental; dataset sintetis mentor sementara).
 
 | Day | Materi | Score / Evidence | Status |
 |---:|---|---|---|
@@ -118,7 +119,7 @@ Prioritas investigasi: **Traffic Source/Quality → Product Detail Page/UX → A
 | 03 | Struktur Folder Awal Repo Portfolio di GitHub | 91/100 — PASS ([review](./week-03/day-03-github-portfolio-structure.md)) | ✅ Completed |
 | 04 | Studi Kasus Bisnis Kompleks (Multi-Metric) | 91/100 — PASS ([review](./week-03/day-04-multi-metric-business-case.md)) | ✅ Completed |
 | 05 | Business Questions → Rencana Analisis | 91/100 — PASS ([review](./week-03/day-05-business-questions-analysis-plan.md)) | ✅ Completed |
-| 06 | Mini Project Fundamental (End-to-End Sederhana) | Belum dimulai | ⚪ Not Started |
+| 06 | Mini Project Fundamental (End-to-End Sederhana) | 91/100 — PASS ([review](./week-03/day-06-mini-project-fundamentals.md)) | ✅ Completed |
 | 07 | Ujian Fundamental Gabungan | Gate ke Excel; target ≥80% | ⚪ Not Started |
 
 **Catatan Day 01:** conversion rate 20% → 13,33%, AOV Rp100.000 → Rp90.000, dan revenue turun 28% pada dataset sintetis latihan. Hipotesis unqualified traffic belum terbukti; tidak ada klaim sebab-akibat tanpa data tambahan.
@@ -137,4 +138,4 @@ Prioritas investigasi: **Traffic Source/Quality → Product Detail Page/UX → A
 
 ## Next Step
 
-**Week 03 Day 06 — Mini Project Fundamental (End-to-End Sederhana).** Day 05 PASS 91/100. Review: [Day 5 Business Questions → Rencana Analisis](./week-03/day-05-business-questions-analysis-plan.md). Materi dan dataset latihan sintetis sementara mentor karena halaman materi awal Notion kosong. Catatan review Day 3: `portfolio/README.md` belum ditemukan dan tidak boleh dianggap sudah ada.
+**Week 03 Day 07 — Ujian Fundamental Gabungan.** Day 6 PASS 91/100. Review: [Day 6 Mini Project Fundamental](./week-03/day-06-mini-project-fundamentals.md). Materi dan dataset sintetis sementara mentor karena halaman materi awal Notion kosong. T013 diskon 1.20, T012 kuantitas -2, dan T011 kandidat duplikat tetap memiliki catatan validasi.
