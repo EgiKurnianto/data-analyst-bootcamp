@@ -106,12 +106,12 @@ Prioritas investigasi: **Traffic Source/Quality → Product Detail Page/UX → A
 
 **Status: 🟡 In Progress**  
 **Day 01:** PASS — 88/100 (latihan mentor sementara; halaman materi Notion awal ditemukan kosong).  
-**Day 02:** In Progress — Anatomi Dataset Lanjutan (Data Quality Awal); belum dinilai.
+**Day 02:** PASS — 92/100 (latihan mentor sementara; halaman materi Notion awal ditemukan kosong).
 
 | Day | Materi | Score / Evidence | Status |
 |---:|---|---|---|
 | 01 | Review Gabungan: Data vs Information vs Insight vs Recommendation | 88/100 — latihan mentor sementara | ✅ Completed |
-| 02 | Anatomi Dataset Lanjutan (Data Quality Awal) | Latihan data quality sedang dikerjakan | 🟡 In Progress |
+| 02 | Anatomi Dataset Lanjutan (Data Quality Awal) | 92/100 — PASS (latihan mentor sementara) | ✅ Completed |
 | 03 | Struktur Folder Awal Repo Portfolio di GitHub | Belum dimulai | ⚪ Not Started |
 | 04 | Studi Kasus Bisnis Kompleks (Multi-Metric) | Belum dimulai | ⚪ Not Started |
 | 05 | Business Questions → Rencana Analisis | Belum dimulai | ⚪ Not Started |
@@ -127,9 +127,9 @@ Prioritas investigasi: **Traffic Source/Quality → Product Detail Page/UX → A
 |---:|---|
 | 01 | 🟢 Completed — 93/100 |
 | 02 | 🟢 Completed — 98,1/100 |
-| 03 | 🟡 In Progress — Day 01 PASS; Day 02 In Progress |
+| 03 | 🟡 In Progress — Day 01 PASS; Day 02 PASS |
 | 04–52 | ⚪ Not Started |
 
 ## Next Step
 
-**Week 03 Day 02 — Anatomi Dataset Lanjutan (Data Quality Awal):** selesaikan latihan identifikasi row/column, missing value, duplicate, invalid value, inconsistent formatting, calculation mismatch, dan aturan validasi. Nilai baru dicatat setelah jawaban direview. Setelah Day 02, lanjut ke struktur folder portfolio GitHub pada Day 03.
+**Week 03 Day 02 — Anatomi Dataset Lanjutan (Data Quality Awal):** PASS 92/100. Dokumentasi: [Day 02 — Data Quality](./week-03/day-02-data-quality.md). Berikutnya: Week 03 Day 03 — Struktur Folder Awal Repo Portfolio di GitHub.
