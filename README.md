@@ -6,9 +6,12 @@ Program belajar mandiri 52 minggu untuk membangun kompetensi dan portofolio Data
 
 **Week 01 — Foundation: Completed / LULUS — 93/100**  
 **Week 02 — Tools, SQL & Business Analysis: Completed / LULUS — 98,1/100**  
-**Week 02 Day 01–07: Completed**
+**Week 02 Day 01–07: Completed**  
+**Week 03 — Fundamental Analytical Thinking: In Progress**  
+**Week 03 Day 01: PASS — 88/100 (latihan mentor sementara)**  
+**Week 03 Day 02: In Progress — Anatomi Dataset Lanjutan (Data Quality Awal)**
 
-Week 02 menerapkan fondasi Week 01 ke SQL, Git/GitHub, KPI, funnel, business questions, dan mini data analysis.
+Week 02 menerapkan fondasi Week 01 ke SQL, Git/GitHub, KPI, funnel, business questions, dan mini data analysis. Week 03 melanjutkan analytical thinking dan pemeriksaan awal kualitas dataset. Materi Day 1–2 di Notion ditemukan kosong saat diperiksa; dokumentasi Day 1 secara eksplisit menandai latihan sebagai materi mentor sementara.
 
 ## Core Analytical Workflow
 
@@ -67,17 +70,19 @@ data-analyst-bootcamp/
 ├── week-01/
 │   ├── README.md
 │   └── day-01.md ... day-07.md
-└── week-02/
-    ├── README.md
-    ├── day-01-tools-sql.md
-    ├── day-01.md
-    ├── day-02-git-notes.md
-    ├── day-02.md
-    ├── day-03.md
-    ├── day-04.md
-    ├── day-05.md
-    ├── day-06.md
-    └── day-07.md
+├── week-02/
+│   ├── README.md
+│   ├── day-01-tools-sql.md
+│   ├── day-01.md
+│   ├── day-02-git-notes.md
+│   ├── day-02.md
+│   ├── day-03.md
+│   ├── day-04.md
+│   ├── day-05.md
+│   ├── day-06.md
+│   └── day-07.md
+└── week-03/
+    └── day-01-review-analytical-thinking.md
 ```
 
 ## Prinsip Belajar
@@ -93,6 +98,7 @@ data-analyst-bootcamp/
 - [Progress Belajar](./PROGRESS.md)
 - [Week 01](./week-01/README.md)
 - [Week 02](./week-02/README.md)
+- [Week 03 Day 01 — Review Analytical Thinking](./week-03/day-01-review-analytical-thinking.md)
 
 ---
 **Owner:** Egi Kurnianto  
