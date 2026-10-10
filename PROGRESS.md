@@ -106,13 +106,14 @@ Prioritas investigasi: **Traffic Source/Quality → Product Detail Page/UX → A
 
 **Status: 🟡 In Progress**  
 **Day 01:** PASS — 88/100 (latihan mentor sementara; halaman materi Notion awal ditemukan kosong).  
-**Day 02:** PASS — 92/100 (latihan mentor sementara; halaman materi Notion awal ditemukan kosong).
+**Day 02:** PASS — 92/100 (latihan mentor sementara; halaman materi Notion awal ditemukan kosong).  
+**Day 03:** PASS — 91/100 (latihan mentor sementara; halaman materi Notion awal ditemukan kosong).
 
 | Day | Materi | Score / Evidence | Status |
 |---:|---|---|---|
 | 01 | Review Gabungan: Data vs Information vs Insight vs Recommendation | 88/100 — latihan mentor sementara | ✅ Completed |
 | 02 | Anatomi Dataset Lanjutan (Data Quality Awal) | 92/100 — PASS (latihan mentor sementara) | ✅ Completed |
-| 03 | Struktur Folder Awal Repo Portfolio di GitHub | Latihan sedang dikerjakan; belum ada skor | 🟡 In Progress |
+| 03 | Struktur Folder Awal Repo Portfolio di GitHub | 91/100 — PASS ([review](./week-03/day-03-github-portfolio-structure.md)) | ✅ Completed |
 | 04 | Studi Kasus Bisnis Kompleks (Multi-Metric) | Belum dimulai | ⚪ Not Started |
 | 05 | Business Questions → Rencana Analisis | Belum dimulai | ⚪ Not Started |
 | 06 | Mini Project Fundamental (End-to-End Sederhana) | Belum dimulai | ⚪ Not Started |
@@ -127,9 +128,9 @@ Prioritas investigasi: **Traffic Source/Quality → Product Detail Page/UX → A
 |---:|---|
 | 01 | 🟢 Completed — 93/100 |
 | 02 | 🟢 Completed — 98,1/100 |
-| 03 | 🟡 In Progress — Day 01 PASS; Day 02 PASS |
+| 03 | 🟡 In Progress — Day 01 PASS; Day 02 PASS; Day 03 PASS |
 | 04–52 | ⚪ Not Started |
 
 ## Next Step
 
-**Week 03 Day 03 — Struktur Folder Awal Repo Portfolio di GitHub:** sedang dikerjakan; belum ada skor. Materi sementara dan latihan tersedia di Notion. Tidak ada perubahan repo yang dilakukan sebelum struktur yang diusulkan direview.
+**Week 03 Day 04 — Studi Kasus Bisnis Kompleks (Multi-Metric):** berikutnya. Day 03 PASS 91/100; materi/latihan Day 3 merupakan materi sementara mentor karena halaman materi awal Notion kosong. Catatan review: `portfolio/README.md` belum ditemukan dan tidak boleh dianggap sudah ada.
